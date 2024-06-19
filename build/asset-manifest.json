@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/TeamProject/static/css/main.51111982.css",
+    "main.js": "/TeamProject/static/js/main.97ac47df.js",
+    "static/js/453.d855a71b.chunk.js": "/TeamProject/static/js/453.d855a71b.chunk.js",
+    "static/media/MainPageBackground.jpg": "/TeamProject/static/media/MainPageBackground.61b0a1cd338bba0e215c.jpg",
+    "static/media/standard.jpg": "/TeamProject/static/media/standard.27b3c0028583e875bc0c.jpg",
+    "static/media/luxury.jpg": "/TeamProject/static/media/luxury.15a569dbf0c16ff9973f.jpg",
+    "static/media/deluxe.jpg": "/TeamProject/static/media/deluxe.f3a13bf8ae9aa6514230.jpg",
+    "index.html": "/TeamProject/index.html",
+    "main.51111982.css.map": "/TeamProject/static/css/main.51111982.css.map",
+    "main.97ac47df.js.map": "/TeamProject/static/js/main.97ac47df.js.map",
+    "453.d855a71b.chunk.js.map": "/TeamProject/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51111982.css",
+    "static/js/main.97ac47df.js"
+  ]
+}
